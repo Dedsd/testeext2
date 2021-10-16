@@ -1,0 +1,14 @@
+{
+    "identifier": "org.yourdomain.my-extensionnn",
+    "name": "My Extensionnn",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "url": "http://localhost:8001/main.css",
+    "dock_icon":{
+        "type": "circle",
+        "background_color": "#086DD6",
+        "foreground_color": "#ffffff",
+        "border_color": "#086DD6"
+    }
+}
