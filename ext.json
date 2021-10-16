@@ -4,5 +4,11 @@
     "content_type": "SN|Theme",
     "area": "themes",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/Dedsd/testeext2/master/main.scss"
+    "url": "https://raw.githubusercontent.com/Dedsd/testeext2/master/main.scss",
+    "dock_icon":{
+        "type": "circle",
+        "background_color": "#086DD6",
+        "foreground_color": "#ffffff",
+        "border_color": "#086DD6"
+    }
 }
