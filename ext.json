@@ -4,7 +4,7 @@
     "content_type": "SN|Theme",
     "area": "themes",
     "version": "1.0.0",
-    "url": "http://localhost:8001/main.css",
+    "url": "https://raw.githubusercontent.com/Dedsd/testeext2/master/main.css",
     "dock_icon":{
         "type": "circle",
         "background_color": "#086DD6",
